@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏨 Hotel Management System (HMS) - Enterprise SaaS Platform
 
 A complete, production-grade, AI-powered Hotel Management System built for multi-property hotel chains with premium enterprise UI and comprehensive features.
@@ -597,3 +598,6 @@ For issues, questions, or contributions:
 ---
 
 **Built with ❤️ for enterprise hotel management**
+=======
+# hms-platform
+>>>>>>> 2df2318e880a203ab21cd8e106b4bc188a4cb126
